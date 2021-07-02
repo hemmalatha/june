@@ -26,6 +26,7 @@ public class Secondone extends Firstone {
 	@Test
 	private void testcase1() {
 		System.out.println("First!");
+		System.out.println("hello!");
 		Assert.assertTrue(false);
 //		pojclass pj = new pojclass();
 //		totype(pj.getTxtUser(), "Priya");
